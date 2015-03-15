@@ -1,0 +1,22 @@
+Simple specification for the app
+================================
+
+Overview
+--------
+
+    Create simple application, that can read any BTLE sensor tags temperature,
+humidity, air pressure.
+
+
+Program flow
+------------
+
+First user starts the application. He is shown list of bluetooth devices, which
+he can connect to. After he has selected one, APP connects to this device and
+starts reading data. Data is shown in graph. User can select, what data he wants
+to see (one at a time or all at the same time if we can have meaningful graph).
+
+When user exits the app, he can leave data collection to background. If he wants
+to stop data collection, he needs to press "disconnect" on the UI.
+
+

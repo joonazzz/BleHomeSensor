@@ -3,4 +3,15 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported!</string>
+    <string name="sort_criteria">Sorting</string>
+
+    <string-array name="sort_criteria_array">
+        <item>RSSI descending</item>
+        <item>RSSI ascending</item>
+    </string-array>
+
 </resources>
