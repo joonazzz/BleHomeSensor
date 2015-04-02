@@ -8,10 +8,16 @@
     <string name="unknown_device">Unknown device</string>
     <string name="error_bluetooth_not_supported">Bluetooth not supported!</string>
     <string name="sort_criteria">Sorting</string>
+    <string name="bt_service_started">bluetooth service started</string>
+    <string name="bt_service_label">BleHomeSensor</string>
+    <string name="bt_service_stopped">Bluetooth service stopped</string>
+    <string name="bt_service_connected">Bluetooth service connected</string>
+    <string name="bt_service_disconnected">Bluetooth service disconnected</string>
 
     <string-array name="sort_criteria_array">
         <item>RSSI descending</item>
         <item>RSSI ascending</item>
     </string-array>
+    <string name="title_activity_main">MainActivity</string>
 
 </resources>
